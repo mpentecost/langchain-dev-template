@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+black==23.7.0
+ipython==8.22.1
+langchain==0.1.8
+langchain-cli==0.0.21
+langchainhub==0.1.14
+langchain-openai==0.0.6
+langserve==0.0.42
+pip-tools==7.4.0
+pypdf==4.0.2
+weaviate-client==4.4.4
